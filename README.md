@@ -16,4 +16,4 @@ Productos destacados: El producto más vendido fue " iniciando en programacion" 
 # Ejecución
  Clonar el repositorio:
    ```bash
-   git clone https://github.com/tuusuario/AluraStoreLatam.git
+   git clone https://github.com/Juanbelares/AluraStoreLatam.git
